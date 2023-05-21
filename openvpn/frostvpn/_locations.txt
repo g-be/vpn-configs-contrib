@@ -1,0 +1,65 @@
+gw1.grz1.frostvpn.com austria,graz
+gw1.sof1.frostvpn.com bulgaria,sofia *
+gw1.yul2.frostvpn.com canada,montreal
+gw3.yyz1.frostvpn.com canada,toronto
+gw1.yvr1.frostvpn.com canada,vancouver
+gw1.kna1.frostvpn.com chile,vinaDelMar
+gw1.prg1.frostvpn.com czechRepublic,prague *
+gw1.cdg2.frostvpn.com france,paris
+gw1.fra1.frostvpn.com germany,frankfurt
+gw1.hkg2.frostvpn.com hongKong,hongKong
+gw1.bud1.frostvpn.com hungary,budapest
+gw1.blr1.frostvpn.com india,bangalore *
+gw1.pnq1.frostvpn.com india,pune *
+gw1.cgk1.frostvpn.com indonesia,jakarta
+gw1.dub1.frostvpn.com ireland,dublin
+gw1.mxp1.frostvpn.com italy,milan
+gw1.mxp2.frostvpn.com italy,milan
+gw1.rix1.frostvpn.com latvia,riga
+gw1.kul2.frostvpn.com malaysia,kualaLumpur
+gw1.akl1.frostvpn.com newZealand,auckland
+gw1.trf1.frostvpn.com norway,torp
+gw1.lis1.frostvpn.com portugal,lisbon *
+gw1.buh2.frostvpn.com romania,bucharest
+gw1.svo2.frostvpn.com russia,moscow
+gw1.sin2.frostvpn.com singapore,singapore *
+gw1.sin1.frostvpn.com singapore,singapore *
+gw1.lju1.frostvpn.com slovenia,ljubljana
+gw1.hla1.frostvpn.com southAfrica,lanseria *
+gw1.bcn2.frostvpn.com spain,barcelona *
+gw1.had2.frostvpn.com sweden,halmstad
+gw1.arn2.frostvpn.com sweden,stockholm
+gw1.arn3.frostvpn.com sweden,stockholm
+gw1.bkk1.frostvpn.com thailand,bangkok
+gw1.cvt1.frostvpn.com uk,coventry
+gw1.sou1.frostvpn.com uk,eastleighSouthampton
+gw2.lhr2.frostvpn.com uk,london
+gw1.lhr3.frostvpn.com uk,london
+gw1.lhr2.frostvpn.com uk,london
+gw2.rcs1.frostvpn.com uk,rochester
+gw1.atl1.frostvpn.com us,atlanta
+gw2.atl2.frostvpn.com us,atlanta
+gw1.bos1.frostvpn.com us,boston
+gw1.buf1.frostvpn.com us,buffalo
+gw1.ord3.frostvpn.com us,chicago
+gw1.ord4.frostvpn.com us,chicago
+gw2.ord1.frostvpn.com us,chicago
+gw1.cmh1.frostvpn.com us,columbus
+gw1.dbq1.frostvpn.com us,dubuque
+gw1.avl2.frostvpn.com us,fletcher
+gw2.hou1.frostvpn.com us,houston
+gw1.mci2.frostvpn.com us,kansasCity
+gw1.las1.frostvpn.com us,lasVegas
+gw1.lax2.frostvpn.com us,losAngeles
+gw1.lga2.frostvpn.com us,newYork
+gw1.lga1.frostvpn.com us,newYork
+gw2.ewr1.frostvpn.com us,newark
+gw1.ewr1.frostvpn.com us,newark
+gw2.pao1.frostvpn.com us,paloAlto
+gw1.phx2.frostvpn.com us,phoenix
+gw1.rbg1.frostvpn.com us,roseburg
+gw2.slc1.frostvpn.com us,saltLakeCity
+gw1.mul1.frostvpn.com us,sanDiego
+gw1.sjc2.frostvpn.com us,sanJose
+gw2.sea1.frostvpn.com us,seattle
+gw1.stl1.frostvpn.com us,stLouis
