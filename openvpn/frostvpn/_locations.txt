@@ -1,3 +1,4 @@
+# source: https://www.frostvpn.com/clients/servers.htm
 gw1.grz1.frostvpn.com austria,graz
 gw1.sof1.frostvpn.com bulgaria,sofia *
 gw1.yul2.frostvpn.com canada,montreal
